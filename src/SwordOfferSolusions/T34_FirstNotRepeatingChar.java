@@ -1,3 +1,5 @@
+package SwordOfferSolusions;
+
 import java.util.HashMap;
 
 public class T34_FirstNotRepeatingChar {

@@ -1,3 +1,5 @@
+package SwordOfferSolusions;
+
 import java.util.ArrayList;
 
 public class T64_MaxInSlidingWindow {

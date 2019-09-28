@@ -1,3 +1,5 @@
+package SwordOfferSolusions;
+
 public class T37_GetNumberOfK {
     public int GetNumberOfK(int [] array , int k) {
         if(array == null || array.length == 0)

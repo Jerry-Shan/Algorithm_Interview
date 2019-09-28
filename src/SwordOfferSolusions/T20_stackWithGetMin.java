@@ -1,3 +1,5 @@
+package SwordOfferSolusions;
+
 import java.util.Stack;
 
 public class T20_stackWithGetMin {

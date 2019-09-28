@@ -61,7 +61,7 @@ SJZ's Preparation for Algorithm Interview
 
 064-滑动窗口的最大值(双端队列)
 
-### Heap
+### SwordOfferSolusions.Heap
 
 029-最小的K个数
 

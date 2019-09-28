@@ -1,9 +1,11 @@
+package SwordOfferSolusions;
+
 import java.util.ArrayList;
 
-// Implement Heap Structure by hands
+// Implement SwordOfferSolusions.Heap Structure by hands
 public class Heap {
 
-    // build Heap
+    // build SwordOfferSolusions.Heap
     private ArrayList<Integer> buildHeap(int[] nums){
         ArrayList<Integer> res = new ArrayList<Integer>();
         if (nums.length == 0)

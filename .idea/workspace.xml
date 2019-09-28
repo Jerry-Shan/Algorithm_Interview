@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8ab441b-8977-44ed-89c8-778ada9e0c53" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/T40_FindNumsAppearOnce.java" afterDir="false" />
+    <list default="true" id="e8ab441b-8977-44ed-89c8-778ada9e0c53" name="Default Changelist" comment="20190928-Add-T40&amp;T34">
+      <change afterPath="$PROJECT_DIR$/src/LeetCodeSolutions/lc198_HouseRobber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCodeSolutions/lc53_MaximumSubarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCodeSolutions/lc70_ClimbingStairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwordOfferSolusions/T31_NumberOf1Between1AndN.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm_Interview/Heap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm_Interview/Heap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/T34_FirstNotRepeatingChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T34_FirstNotRepeatingChar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm_Interview/Heap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm_Interview/T05_twoStacksQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm_Interview/T20_stackWithGetMin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm_Interview/T21_StackPushPopOrder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm_Interview/T22_layerPrintTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm_Interview/T23_VerifySquenceOfBST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm_Interview/T23_demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm_Interview/T24_FindPath.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm_Interview/T29_TopK.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm_Interview/T34_FirstNotRepeatingChar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm_Interview/T37_GetNumberOfK.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm_Interview/T40_FindNumsAppearOnce.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm_Interview/T44_reverseSentence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm_Interview/T59_zPrintTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm_Interview/T61_serialTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm_Interview/T64_MaxInSlidingWindow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm_Interview/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Heap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordOfferSolusions/Heap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T05_twoStacksQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordOfferSolusions/T05_twoStacksQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T20_stackWithGetMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordOfferSolusions/T20_stackWithGetMin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T21_StackPushPopOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordOfferSolusions/T21_StackPushPopOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T22_layerPrintTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordOfferSolusions/T22_layerPrintTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T23_VerifySquenceOfBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordOfferSolusions/T23_VerifySquenceOfBST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T23_demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordOfferSolusions/T23_demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T24_FindPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordOfferSolusions/T24_FindPath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T29_TopK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordOfferSolusions/T29_TopK.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T34_FirstNotRepeatingChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordOfferSolusions/T34_FirstNotRepeatingChar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T37_GetNumberOfK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordOfferSolusions/T37_GetNumberOfK.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T40_FindNumsAppearOnce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordOfferSolusions/T40_FindNumsAppearOnce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T44_reverseSentence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordOfferSolusions/T44_reverseSentence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T59_zPrintTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordOfferSolusions/T59_zPrintTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T61_serialTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordOfferSolusions/T61_serialTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T64_MaxInSlidingWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordOfferSolusions/T64_MaxInSlidingWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordOfferSolusions/TreeNode.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +72,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\0Coding\Java\Algorithm_Interview\src\LeetCodeSolutions" />
       <recent name="D:\0Coding\Java\Algorithm_Interview\src" />
     </key>
   </component>
@@ -52,56 +88,62 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.T40_FindNumsAppearOnce">
+  <component name="RunManager" selected="Application.lc53_MaximumSubarray">
     <configuration name="Heap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Heap" />
+      <option name="MAIN_CLASS_NAME" value="SwordOfferSolusions.Heap" />
       <module name="Algorithm_Interview" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="T34_FirstNotRepeatingChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="T34_FirstNotRepeatingChar" />
+      <option name="MAIN_CLASS_NAME" value="SwordOfferSolusions.T34_FirstNotRepeatingChar" />
       <module name="Algorithm_Interview" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="T37_GetNumberOfK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="T37_GetNumberOfK" />
+      <option name="MAIN_CLASS_NAME" value="SwordOfferSolusions.T37_GetNumberOfK" />
       <module name="Algorithm_Interview" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="T40_FindNumsAppearOnce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="T40_FindNumsAppearOnce" />
+      <option name="MAIN_CLASS_NAME" value="SwordOfferSolusions.T40_FindNumsAppearOnce" />
       <module name="Algorithm_Interview" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T64_MaxInSlidingWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="T64_MaxInSlidingWindow" />
+    <configuration name="lc53_MaximumSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCodeSolutions.lc53_MaximumSubarray" />
       <module name="Algorithm_Interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCodeSolutions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.T64_MaxInSlidingWindow" />
       <item itemvalue="Application.T37_GetNumberOfK" />
       <item itemvalue="Application.Heap" />
       <item itemvalue="Application.T34_FirstNotRepeatingChar" />
       <item itemvalue="Application.T40_FindNumsAppearOnce" />
+      <item itemvalue="Application.lc53_MaximumSubarray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lc53_MaximumSubarray" />
         <item itemvalue="Application.T40_FindNumsAppearOnce" />
         <item itemvalue="Application.T34_FirstNotRepeatingChar" />
         <item itemvalue="Application.Heap" />
         <item itemvalue="Application.T37_GetNumberOfK" />
-        <item itemvalue="Application.T64_MaxInSlidingWindow" />
       </list>
     </recent_temporary>
   </component>
@@ -112,12 +154,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569240606721</updated>
-      <workItem from="1569240609506" duration="47688000" />
+      <workItem from="1569240609506" duration="52040000" />
     </task>
+    <task id="LOCAL-00001" summary="20190928-Add-T40&amp;T34">
+      <created>1569661151563</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1569661151563</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -129,5 +189,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="20190928-Add-T40&amp;T34" />
+    <option name="LAST_COMMIT_MESSAGE" value="20190928-Add-T40&amp;T34" />
   </component>
 </project>

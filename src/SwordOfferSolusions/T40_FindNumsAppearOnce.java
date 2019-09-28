@@ -1,3 +1,5 @@
+package SwordOfferSolusions;
+
 import java.util.HashMap;
 public class T40_FindNumsAppearOnce {
     public void FindNumsAppearOnce(int [] array,int num1[] , int num2[]) {

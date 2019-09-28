@@ -1,3 +1,5 @@
+package SwordOfferSolusions;
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.LinkedList;
@@ -7,7 +9,7 @@ public class T22_layerPrintTree {
     public ArrayList<Integer> PrintFromTopToBottom(TreeNode root) {
         ArrayList<Integer> resList = new ArrayList<Integer>();
         Queue<TreeNode> queue = new LinkedList<TreeNode>();
-        // debug： new LinkedList<TreeNode>() <>后的括号()漏了！注意细节。
+        // debug： new LinkedList<SwordOfferSolusions.TreeNode>() <>后的括号()漏了！注意细节。
         if(root == null)
             return resList;
         TreeNode curNode = null;
@@ -112,7 +114,7 @@ public class T22_layerPrintTree {
         root.right.left = new TreeNode(4);
         root.left.right = new TreeNode(7);
 /*        ArrayList<Integer> res = new ArrayList<Integer>();
-        T22_layerPrintTree pt = new T22_layerPrintTree();
+        SwordOfferSolusions.T22_layerPrintTree pt = new SwordOfferSolusions.T22_layerPrintTree();
         res = pt.PrintFromTopToBottom(root);
         System.out.println(res);*/
 

@@ -1,3 +1,5 @@
+package SwordOfferSolusions;
+
 import java.util.Arrays;
 public class T23_demo {
     public static boolean VerifySquenceOfBST(int[] sequence) {
