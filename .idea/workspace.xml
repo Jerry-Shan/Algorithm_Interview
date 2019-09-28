@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8ab441b-8977-44ed-89c8-778ada9e0c53" name="Default Changelist" comment="" />
+    <list default="true" id="e8ab441b-8977-44ed-89c8-778ada9e0c53" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/T40_FindNumsAppearOnce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm_Interview/Heap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm_Interview/Heap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T34_FirstNotRepeatingChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T34_FirstNotRepeatingChar.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +21,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1REmPi9aI3PGnrUShpVSX2ZfVdN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -39,7 +52,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Heap">
+  <component name="RunManager" selected="Application.T40_FindNumsAppearOnce">
     <configuration name="Heap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Heap" />
       <module name="Algorithm_Interview" />
@@ -47,8 +60,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T20_stackWithGetMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="T20_stackWithGetMin" />
+    <configuration name="T34_FirstNotRepeatingChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="T34_FirstNotRepeatingChar" />
       <module name="Algorithm_Interview" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -61,8 +74,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T44_reverseSentence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="T44_reverseSentence" />
+    <configuration name="T40_FindNumsAppearOnce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="T40_FindNumsAppearOnce" />
       <module name="Algorithm_Interview" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,19 +89,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.T20_stackWithGetMin" />
-      <item itemvalue="Application.T44_reverseSentence" />
       <item itemvalue="Application.T64_MaxInSlidingWindow" />
       <item itemvalue="Application.T37_GetNumberOfK" />
       <item itemvalue="Application.Heap" />
+      <item itemvalue="Application.T34_FirstNotRepeatingChar" />
+      <item itemvalue="Application.T40_FindNumsAppearOnce" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T40_FindNumsAppearOnce" />
+        <item itemvalue="Application.T34_FirstNotRepeatingChar" />
         <item itemvalue="Application.Heap" />
         <item itemvalue="Application.T37_GetNumberOfK" />
         <item itemvalue="Application.T64_MaxInSlidingWindow" />
-        <item itemvalue="Application.T44_reverseSentence" />
-        <item itemvalue="Application.T20_stackWithGetMin" />
       </list>
     </recent_temporary>
   </component>
@@ -99,11 +112,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569240606721</updated>
-      <workItem from="1569240609506" duration="42039000" />
+      <workItem from="1569240609506" duration="47688000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
