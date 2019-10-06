@@ -43,19 +43,20 @@ public class T24_FindPath {
 
     public static void main(String[] args) {
         TreeNode root = new TreeNode(10);
-        root.left = new TreeNode(5);
-        root.right = new TreeNode(12);
-        root.right.left = null;
-        root.right.right = null;
-        root.left.left = new TreeNode(7);
-        root.left.left = null;
-        root.left.right = null;
-        root.left.right = new TreeNode(4);
-        root.left.right.left = null;
-        root.left.right.right = null;
+        root.left = new TreeNode(8);
+        root.right = new TreeNode(4);
+//        root.right.left = null;
+//        root.right.right = null;
+        root.left.left = new TreeNode(3);
+//        root.left.left = null;
+//        root.left.right = null;
+        root.right.right = new TreeNode(2);
+        root.right.right.right = new TreeNode(2);
+//        root.left.right.left = null;
+//        root.left.right.right = null;
 
 
         T24_FindPath fp = new T24_FindPath();
-        fp.FindPath(root,15);
+        fp.FindPath(root,18);
     }
 }

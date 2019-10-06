@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8ab441b-8977-44ed-89c8-778ada9e0c53" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Interview2019/LucyNums.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interview2019/MultiLineScanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interview2019/OneLineScanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCodeSolutions/lc120_Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCodeSolutions/lc174_DungeonGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCodeSolutions/lc300_LongestIncreasingSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCodeSolutions/lc322_CoinChange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCodeSolutions/lc64_MinimumPathSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SwordOfferSolusions/T52_RegexMatch.java" afterDir="false" />
+    <list default="true" id="e8ab441b-8977-44ed-89c8-778ada9e0c53" name="Default Changelist" comment="20190930-Add-DPProblemsSolutions-Slides">
+      <change afterPath="$PROJECT_DIR$/src/Interview2019/kNumsSumN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwordOfferSolusions/T24_FindPath_v2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwordOfferSolusions/T65_findPathinMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwordOfferSolusions/T65_findPathinMatrix_demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwordOfferSolusions/T66_robotMovingCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwordOfferSolusions/T66_robotMovingCount_Non_Recursive.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm_Interview/SwordOfferSolusions/T24_FindPath.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm_Interview/SwordOfferSolusions/T24_FindPath.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SwordOfferSolusions/T24_FindPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordOfferSolusions/T24_FindPath.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,10 +36,14 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="SwordOfferSolusions" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\0Coding\Java\Algorithm_Interview\src\LeetCodeSolutions" />
       <recent name="D:\0Coding\Java\Algorithm_Interview\src" />
@@ -58,13 +61,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.lc174_DungeonGame">
-    <configuration name="LucyNums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Interview2019.LucyNums" />
+  <component name="RunManager" selected="Application.T66_robotMovingCount_Non_Recursive">
+    <configuration name="T24_FindPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwordOfferSolusions.T24_FindPath" />
       <module name="Algorithm_Interview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Interview2019.*" />
+          <option name="PATTERN" value="SwordOfferSolusions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lc120_Triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCodeSolutions.lc120_Triangle" />
+    <configuration name="T24_FindPath_v2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwordOfferSolusions.T24_FindPath_v2" />
       <module name="Algorithm_Interview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCodeSolutions.*" />
+          <option name="PATTERN" value="SwordOfferSolusions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lc174_DungeonGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCodeSolutions.lc174_DungeonGame" />
+    <configuration name="T65_findPathinMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwordOfferSolusions.T65_findPathinMatrix" />
       <module name="Algorithm_Interview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCodeSolutions.*" />
+          <option name="PATTERN" value="SwordOfferSolusions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lc300_LongestIncreasingSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCodeSolutions.lc300_LongestIncreasingSubsequence" />
+    <configuration name="T66_robotMovingCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwordOfferSolusions.T66_robotMovingCount" />
       <module name="Algorithm_Interview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCodeSolutions.*" />
+          <option name="PATTERN" value="SwordOfferSolusions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lc64_MinimumPathSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCodeSolutions.lc64_MinimumPathSum" />
+    <configuration name="T66_robotMovingCount_Non_Recursive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwordOfferSolusions.T66_robotMovingCount_Non_Recursive" />
       <module name="Algorithm_Interview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCodeSolutions.*" />
+          <option name="PATTERN" value="SwordOfferSolusions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,19 +128,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LucyNums" />
-      <item itemvalue="Application.lc120_Triangle" />
-      <item itemvalue="Application.lc300_LongestIncreasingSubsequence" />
-      <item itemvalue="Application.lc64_MinimumPathSum" />
-      <item itemvalue="Application.lc174_DungeonGame" />
+      <item itemvalue="Application.T24_FindPath" />
+      <item itemvalue="Application.T24_FindPath_v2" />
+      <item itemvalue="Application.T65_findPathinMatrix" />
+      <item itemvalue="Application.T66_robotMovingCount" />
+      <item itemvalue="Application.T66_robotMovingCount_Non_Recursive" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.lc174_DungeonGame" />
-        <item itemvalue="Application.lc64_MinimumPathSum" />
-        <item itemvalue="Application.lc300_LongestIncreasingSubsequence" />
-        <item itemvalue="Application.lc120_Triangle" />
-        <item itemvalue="Application.LucyNums" />
+        <item itemvalue="Application.T66_robotMovingCount_Non_Recursive" />
+        <item itemvalue="Application.T66_robotMovingCount" />
+        <item itemvalue="Application.T65_findPathinMatrix" />
+        <item itemvalue="Application.T24_FindPath" />
+        <item itemvalue="Application.T24_FindPath_v2" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +151,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569240606721</updated>
-      <workItem from="1569240609506" duration="74639000" />
+      <workItem from="1569240609506" duration="75337000" />
+      <workItem from="1569994661318" duration="2118000" />
+      <workItem from="1570362878646" duration="6201000" />
     </task>
     <task id="LOCAL-00001" summary="20190928-Add-T40&amp;T34">
       <created>1569661151563</created>
@@ -171,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569686419893</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="20190930-Add-DPProblemsSolutions-Slides">
+      <created>1569848991977</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1569848991977</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,7 +204,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -201,6 +215,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="20190928-Add-T40&amp;T34" />
     <MESSAGE value="20190929-Add-DPProblems-lc53&amp;lc70&amp;lc198" />
-    <option name="LAST_COMMIT_MESSAGE" value="20190929-Add-DPProblems-lc53&amp;lc70&amp;lc198" />
+    <MESSAGE value="20190930-Add-DPProblemsSolutions-Slides" />
+    <option name="LAST_COMMIT_MESSAGE" value="20190930-Add-DPProblemsSolutions-Slides" />
   </component>
 </project>
